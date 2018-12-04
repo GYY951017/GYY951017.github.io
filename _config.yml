@@ -4,8 +4,8 @@
 baseurl:
 #url: http://GYY951017.github.io
 date_format: "ordinal"
-title: 毛毛虫_Wendy
-subtitle: "Wendy's Personal Blog"
+title: GaoYunYun
+subtitle: "GaoYunYun's Personal Blog"
 description: "Record ideas and knowledge"
 keywords: Algorithm,Machine Learning(eg.Deep Learning),Data mining
 timezone: Asia/Beijing
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Wendy
+author: GaoYunYun
 organization: UESTC
 #organization_url: GYY951017.github.io
-github_username: DWJWendy
-location: Chengdu, sichuan
-email: dengwenjun818@gmail.com
+github_username: GaoYunYun
+location: JiangXi, NanChang
+email: 1966748732@qq.com
 
 # ---------------- #
 #    Navigation    #
