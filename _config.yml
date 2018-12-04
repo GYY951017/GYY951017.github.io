@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mmcwendy.info
+url: http://GYY951017.github.io
 date_format: "ordinal"
 title: 毛毛虫_Wendy
 subtitle: "Wendy's Personal Blog"
@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Wendy
 organization: UESTC
-organization_url: http://mmcwendy.info
+organization_url: GYY951017.github.io
 github_username: DWJWendy
 location: Chengdu, sichuan
 email: dengwenjun818@gmail.com
@@ -85,7 +85,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: DWJWendy/DWJWendy.github.io
+repository: GYY951017/GYY951017.github.io
 
 # ---------------- # 
 #      Comments    #
